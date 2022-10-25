@@ -1,0 +1,4 @@
+First version for git learning
+Edited for second commit
+
+Changing this file for learning to skip stage
